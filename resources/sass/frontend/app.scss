@@ -1,0 +1,22 @@
+@import "../global";
+
+// Fonts
+@import url('https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css');
+
+// Bootstrap Overrides
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Pages
+@import 'pages/dashboard';
+
+// MagNews
+
+@import 'MagNews/animate';
+@import 'MagNews/hamburgers';
+@import 'MagNews/animsition';
+@import 'MagNews/util';
+@import 'MagNews/main';
+@import 'MagNews/select2';
